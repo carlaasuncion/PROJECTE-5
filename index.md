@@ -12,8 +12,8 @@ Ho farem en la maquina de mvware en inte on instalarem docker.
 <div class="well">
 
 ### <a href="https://carlaasuncion.github.io/Primera-setmana/">Primera setmana</a>
-### <a href="ponerlink">Segona setmana</a>
-### <a href="ponerlink">Tercera setmana</a>
-### <a href="ponerlink">Quarta setmana</a>
+ <hr>### <a href="ponerlink">Segona setmana</a> <hr>
+### <a href="ponerlink">Tercera setmana</a> <hr>
+### <a href="ponerlink">Quarta setmana</a> <hr>
 
 
