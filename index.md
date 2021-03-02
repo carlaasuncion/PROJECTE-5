@@ -6,7 +6,6 @@ Ho farem en la maquina de mvware en inte on instalarem docker.
 
 <h2> INFO </h2>
 <img src="https://img.icons8.com/cute-clipart/64/000000/info.png"/>
-Aqui deixo els links que hens a passat el Joan:
 <p><a href="https://hackmd.io/@joaniznardo/emailserver01">link1</a>
 <p><a href=" https://phoenixnap.com/kb/how-to-install-docker-on-debian-10">link2</a> 
 <p><a href="https://raw.githubusercontent.com/joaniznardo/2018smxm7/master/uf2/lab30/up.sh">link3</a>
