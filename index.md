@@ -1,6 +1,6 @@
 ## De que tracta aquest projecte?
 
-En el projecte actual hem de crear un domini i dins d'aquest domini crear un correu electronic en <p><a href="https://poste.io/">poste.io</a>.
+En el projecte actual hem de crear un domini i dins d'aquest domini crear un correu electronic en <a href="https://poste.io/">poste.io</a>.
 
 Ho farem en la maquina de mvware en inte on instalarem docker.
 
