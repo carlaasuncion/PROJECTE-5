@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## De que tracta aquest projecte?
 
-You can use the [editor on GitHub](https://github.com/carlaasuncion/PROJECTE-5/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+En el projecte actual hem de crear un domini i dins d'aquest domini crear un correu electronic en <p><a href="https://poste.io/">poste.io</a>.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ho farem en la maquina de mvware en inte on instalarem docker.
 
 ### Markdown
 
