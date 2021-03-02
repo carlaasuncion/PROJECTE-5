@@ -4,7 +4,7 @@ En el projecte actual hem de crear un domini i dins d'aquest domini crear un cor
 
 Ho farem en la maquina de mvware en inte on instalarem docker.
 
-### <a href="https://carlaasuncion.github.io/PROJECTE-5/blob/1/posts/index.md">Primera setmana</a>
+### <a href="https://carlaasuncion.github.io/Primera-setmana/">Primera setmana</a>
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
