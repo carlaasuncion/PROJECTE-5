@@ -9,7 +9,7 @@ Ho farem en la maquina de mvware en inte on instalarem docker.
 <p><a href="https://hackmd.io/@joaniznardo/emailserver01">link1</a>
 <p><a href=" https://phoenixnap.com/kb/how-to-install-docker-on-debian-10">link2</a> 
 <p><a href="https://raw.githubusercontent.com/joaniznardo/2018smxm7/master/uf2/lab30/up.sh">link3</a>
-<p><a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-es">link3</a>
+<p><a href="https://www.digitalocean.com/community/tutorials/how-to-install-and-use-docker-compose-on-ubuntu-20-04-es">link4</a>
 
 <div class="well">
 
